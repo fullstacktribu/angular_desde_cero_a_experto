@@ -1,5 +1,5 @@
 # Bootcamp: Angular desde cero a experto
-  El objetivo del bootcamp es poder completar el curso de la plataforma Udemy https://accenture-ar.udemy.com/course/angular-principiantes-leifer-mendez, en el cual se desarrolla un clon de una conocida plataforma de música y obtener el certificado.
+  El objetivo del bootcamp es poder completar el curso de la plataforma Udemy, en el cual se desarrolla un clon de una conocida plataforma de música y obtener el certificado.
   En dicho desarrollo, se consume un set de datos con canciones que ya esta preestablecido.
 
 # Proyecto final

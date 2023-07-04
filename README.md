@@ -1,4 +1,4 @@
-# Bootcamp: Angular desde cero a expoerto
+# Bootcamp: Angular desde cero a experto
   El objetivo del bootcamp es poder completar el curso de la plataforma Udemy, en el cual se desarrolla un clon de una cononcida plataforma de música y obtener el certificado.
   En dicho desarrollo, se consume un set de datos con canciones que ya esta preestablecido.
 
